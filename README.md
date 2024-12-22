@@ -1,2 +1,10 @@
 # VsO
-VsO_Music - це новий застосунок, який має приємний візуал, а також з кожним днем стає кращим.
+VsO_Music is a new application that has nice visuals and is also getting better every day.
+
+# UPDATE
+
+# 3.3
+
+
+# 1.5
+Adding a sorting system
